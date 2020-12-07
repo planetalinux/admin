@@ -51,7 +51,8 @@ y en el [sitio archivado](https://web.archive.org/web/20120113030404/http://plan
 
 Nos gustaría que las imágenes y diseños se hicieran principalmente utilizando
 herramientas de software libre y se liberen como trabajos bajo la licensia [CC
-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). El arte de imágenes
+deberá ser entregado en formato SVG.
 
 De la misma forma, Planeta Linux le dará crédito público al autor.
 
